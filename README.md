@@ -1,2 +1,2 @@
 # Time-Series-Forecasting
-Traditional Statistical Method and Deep Learning (RNN, LSTM)
+Traditional Statistics Method and Deep Learning (RNN, LSTM)
